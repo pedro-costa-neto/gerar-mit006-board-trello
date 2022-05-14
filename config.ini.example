@@ -1,0 +1,7 @@
+[INFO_TRELLO]
+URL=https://api.trello.com/1/
+
+;Link para obter a KEY e o TOKEN https://trello.com/app-key
+TOKEN=
+KEY=
+COD_BOARD=
